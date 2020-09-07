@@ -24,3 +24,13 @@ function solution(str){
   return str.split('').reverse().join('')
 }
 ```
+##Experience
+Last time I worked on a new calendar.
+
+##Education
+- ITStep courses
+- Independent study
+
+##English
+A2
+
