@@ -1,3 +1,15 @@
+.conteiner {
+    width: 1024px;
+    margin: 0 auto;
+}
+img {
+    margin-right: 50px;
+    width: 120px;
+    height: 150px;
+}
+header {
+    display: flex;
+}
 div.oembedall-githubrepos {
     border: 1px solid #ddd;
     border-radius: 4px;
